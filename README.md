@@ -1,0 +1,1 @@
+# class-as-initial-state
